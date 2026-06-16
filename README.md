@@ -9,8 +9,8 @@ with notes on approach where the logic wasn't obvious on the first try.
 
 | Platform | Solved | Easy | Medium | Hard |
 |---|---|---|---|---|
-| [DataLemur](https://datalemur.com) | 20 / 85 | 19 / 104 | 11 / 148 |
-| [StrataScratch](https://stratascratch.com) | 33 / 398 | 3 / 153 |
+| [DataLemur](https://datalemur.com) | 50 | 20 / 85 | 19 / 104 | 11 / 148 |
+| [StrataScratch](https://stratascratch.com)| 36 | 0 / 291| 33 / 398 | 3 / 153 |
 
 *Free tier exhausted on both platforms — prioritized medium/hard 
 questions in stratascratch since they more closely resemble real interview difficulty.*
