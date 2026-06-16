@@ -1,14 +1,11 @@
-Here's a genuine, well-structured README for the repo. Copy this into your `README.md`:
-
-```markdown
-# 🗃️ SQL Practice — DataLemur & StrataScratch
+# SQL Practice — DataLemur & StrataScratch
 
 SQL interview preparation solved progressively while building toward 
 data engineering and analytics engineering roles. This repo tracks 
 real practice — every query here was attempted and solved by me, 
 with notes on approach where the logic wasn't obvious on the first try.
 
-## 📊 Progress
+## Progress
 
 | Platform | Solved | Easy | Medium | Hard |
 |---|---|---|---|---|
@@ -18,37 +15,20 @@ with notes on approach where the logic wasn't obvious on the first try.
 *Free tier exhausted on both platforms — prioritized medium/hard 
 questions since they more closely resemble real interview difficulty.*
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 Window functions, CTEs, self-joins, cohort analysis, ranking functions, 
 date/time handling, aggregations, joins & set operations, conditional 
 logic, data retrieval fundamentals.
 
-## 📁 Structure
-
-```
-├── datalemur/
-│   ├── medium/
-│   └── hard/
-├── stratascratch/
-│   ├── medium/
-│   └── hard/
-└── README.md
-```
-
 Each `.sql` file includes:
-- The original question (briefly, as a comment)
+- The original question (filename)
 - My solution query
-- A short note on the approach when the logic involved something 
-  non-obvious (e.g. "used a self-join to compare each row to the 
-  previous month's value")
+
 
 ## 🎯 Why this exists
 
-SQL fluency is foundational for analytics/data engineering work. 
-Rather than just collecting a solved-count badge, this repo is meant 
-to be readable — a hiring manager or interviewer should be able to 
-open any file and follow the reasoning, not just see a correct answer.
+SQL fluency is foundational for analytics/data engineering work and one of the most underrated skill 
 
 ## 🔗 Profiles
 
@@ -61,4 +41,3 @@ open any file and follow the reasoning, not just see a correct answer.
 internships. See also: [NSE Pulse](link-to-that-repo) — a multi-asset 
 financial analytics pipeline applying these same SQL skills to a 
 real ClickHouse dataset.*
-```
