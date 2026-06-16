@@ -9,11 +9,11 @@ with notes on approach where the logic wasn't obvious on the first try.
 
 | Platform | Solved | Easy | Medium | Hard |
 |---|---|---|---|---|
-| [DataLemur](https://datalemur.com) | 36 / 671 | 0 / 253 | 33 / 302 | 3 / 116 |
-| [StrataScratch](https://stratascratch.com) | 36 / 1305 | 0 / 291 | 33 / 398 | 3 / 153 |
+| [DataLemur](https://datalemur.com) | 20 / 85 | 19 / 104 | 11 / 148 |
+| [StrataScratch](https://stratascratch.com) | 33 / 398 | 3 / 153 |
 
 *Free tier exhausted on both platforms — prioritized medium/hard 
-questions since they more closely resemble real interview difficulty.*
+questions in stratascratch since they more closely resemble real interview difficulty.*
 
 ##  Topics Covered
 
